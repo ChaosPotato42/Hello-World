@@ -1,2 +1,3 @@
 # Hello-World
-:3
+
+Compile with `gcc hello.c -o hello -std=c99`
